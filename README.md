@@ -1,10 +1,14 @@
 # FromDict2GPT_WS2023
 Vorbemerkung: 
 Dieses Blockseminar gibt einen Überblick über die Geschichte der Lexikographie vom 19. Jh. bis heute, insbesondere mit Blick auf die technischen Entwicklungen.
+
 (1) Das 19. Jh. ist das Zeitalter der "Großwörterbücher". Die Kultursprachen der Welt beginnen mit der "Vermessung der Sprache", sammeln Belege für Bedeutungen von Wörtern und verfassen auf dieser Basis große historische Wörterbücher. Aus dieser Zeit stammen das Oxford English Dictionary und das Grimmsche Wörterbuch.
+
 (2) Ab der 2. Hälfte des 20. Jh. änderten sich die Voraussetzungen. Mit dem für die damalige Zeit bahnbrechenden Trésor de la langue francaise (Tlf) wurde erstmals ein maschinell abfragbares Korpus erstellt, welches als Basis für die Wörterbucharbeit verwendet wurde. Die Erstellung der lexikographischen Basis erfolgte vielfach datenbankbasiert.
+
 (3) Ein kompletter Wandel der traditionellen Wörterbucharbeit wurde durch den "digital turn" ausgelöst. Dieser betraf (a) die Analyse der Wörterbuchartikel mit Hilfe von sehr großen digitalen Korpora anstelle der Belegarchive. Die 3. Auflage des OED konnte beispielsweise erst auf der Grundlage der großen digitalen Korpora konzipiert werden. (b) Mit diesem "digital turn" ging einher, dass Wörterbücher mittlerweile in klassischer Form kaum mehr publiziert werden, sondern lediglich als lexikalische Informationssysteme im Internet publiziert werden. 
-(3) Mit der Veröffentlichung von GPT3 von Open-AI Ende 2022 wird ein weiteres Kapitel für die Lexikographie geöffnet. Seitdem wurden eine Vielzahl weiterer Modelle von Google, Meta, aber auch in Europa von Mistral-AI oder auch Aleph Alpha erzeugt. Mit diesen mächtigen Modellen ist es erstmals möglich, Teile von Wörterbuchartikeln, teilweise sogar gesamte Wörterbuchartikel automatisch durch diese Systeme generieren zu lassen. Ausführliche Evaluierungen stehen noch aus, aber die Veröffentlichungen für die aktuelle EURALEX-Konferenz 2024 zeigt, wie sehr sich das Thema KI mittlerweile in der Lexikographie Einzug gehalten hat: knapp 15% aller Einreichungen behandeln Themen mit Bezug zu GPTs bzw. LLMs.
+
+(4) Mit der Veröffentlichung von GPT3 von Open-AI Ende 2022 wird ein weiteres Kapitel für die Lexikographie geöffnet. Seitdem wurden eine Vielzahl weiterer Modelle von Google, Meta, aber auch in Europa von Mistral-AI oder auch Aleph Alpha erzeugt. Mit diesen mächtigen Modellen ist es erstmals möglich, Teile von Wörterbuchartikeln, teilweise sogar gesamte Wörterbuchartikel automatisch durch diese Systeme generieren zu lassen. Ausführliche Evaluierungen stehen noch aus, aber die Veröffentlichungen für die aktuelle EURALEX-Konferenz 2024 zeigt, wie sehr sich das Thema KI mittlerweile in der Lexikographie Einzug gehalten hat: knapp 15% aller Einreichungen behandeln Themen mit Bezug zu GPTs bzw. LLMs.
 
 Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr.
 Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
