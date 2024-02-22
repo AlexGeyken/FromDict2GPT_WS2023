@@ -38,13 +38,16 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 * Proceedings elex 2023: https://elex.link/elex2023/proceedings-download/
 
 ## Themen für Referate/Hausarbeiten:
-* Alexander Geyken A, Frank Wiegand und Kay-Michael Würzner, 2017. On-the-fly Generation of Dictionary Articles for the DWDS Website. In: Kosem I., Tiberius C., Jakubíček M., Kallas J., Krek S., Baisa V. (eds.), Electronic Lexicography in the 21st Century. Proceedings of eLex 2017 Conference, 19-21 September 2017, Leiden, Netherlands . Brno: Lexical Computing CZ s.r.o., 560–570.
-* Miloš Jakubíček, Michael Rundell: The end of lexicography: Can ChatGPT outperform current tools for post-editing lexicography?  (Proc. elex 2023: p 518-533)
-* Robert Lev, Sascha Wolfer. What lexical factors drive look-ups in Wiktionary (Proc. elex 2023)
+(1) Adam Kilgarriff, Miloš Husák, Katy McAdam, Michael Rundell and Pavel Rychlý (2008). GDEX: Automatically finding good dictionary examples in a corpus. In Proceedings of the 13th EURALEX International Congress. Spain, July 2008, pp. 425–432. (https://www.sketchengine.eu/wp-content/uploads/2015/05/GDEX_Automatically_finding_2008.pdf). Dazu auch die Konfigurations-Datei auf sketchengine.eu: https://www.sketchengine.eu/syntax-of-gdex-configuration-files/
+(2) Alexander Geyken A, Frank Wiegand und Kay-Michael Würzner, 2017. On-the-fly Generation of Dictionary Articles for the DWDS Website. In: Kosem I., Tiberius C., Jakubíček M., Kallas J., Krek S., Baisa V. (eds.), Electronic Lexicography in the 21st Century. Proceedings of eLex 2017 Conference, 19-21 September 2017, Leiden, Netherlands. Brno: Lexical Computing CZ s.r.o., 560–570. (https://elex.link/elex2017/wp-content/uploads/2017/09/paper34.pdf)
+(3) Marek Blahuš, Michal Cukr, Ondřej Herman, Miloš Jakubíček, Vojtěch Kovář, Marek Medveď Semi-automatic building of large-scale digital dictionaries (Themenfeld: Post-Editing Lexicography); https://elex.link/elex2021/wp-content/uploads/2021/08/eLex_2021_23_pp396-407.pdf
+(4) Miloš Jakubíček, Michael Rundell: The end of lexicography: Can ChatGPT outperform current tools for post-editing lexicography?  (Proc. elex 2023: p 518-533)
+(5) Robert Lev, Sascha Wolfer. What lexical factors drive look-ups in Wiktionary (Proc. elex 2023)
  (https://elex.link/elex2017/wp-content/uploads/2017/09/paper34.pdf)
-* Gilles-Maurice de Schryver: Generative AI and Lexicography: The Current State of the Art Using ChatGPT (https://academic.oup.com/ijl/article/36/4/355/7288213)
-* Robert Lev: ChatGPT as a COBUILD lexicographer (https://osf.io/preprints/osf/t9mbu)
-* Marek Blahuš, Michal Cukr, Ondřej Herman, Miloš Jakubíček, Vojtěch Kovář, Marek Medveď Semi-automatic building of large-scale digital dictionaries (Themenfeld: Post-Editing Lexicography); https://elex.link/elex2021/wp-content/uploads/2021/08/eLex_2021_23_pp396-407.pdf
+(5) Gilles-Maurice de Schryver: Generative AI and Lexicography: The Current State of the Art Using ChatGPT (https://academic.oup.com/ijl/article/36/4/355/7288213)
+(6) Robert Lev: ChatGPT as a COBUILD lexicographer (https://osf.io/preprints/osf/t9mbu)
+(7) Develop chatGPT dictionary "definer" that outputs for a given headword: the senses (possibly sub-senses) including definition sentences -- evaluate against testwords and Mistral-AI (as used at DWDS). 
+
 
 
 
