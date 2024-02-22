@@ -16,10 +16,10 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 ## Tag 1 (22.2.2024): 
 * 10-12.30 Einführung (Lexikographie, e-Lexicography, DWDS-I)
 * 13.15-14 Praktische E-Lexikographie (DWDS - II)
-* 14-16 (gemeinsam mit Anja Pfeiffer, BBAWZDL), DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels
+* 14-16 (gemeinsam mit Anja Pfeiffer, BBAWZDL), DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines neuen DWDS-Wörterbuchartikels: das Wort "Betriebsblindheit".
 
 ## Tag 2 (23.2.2024):
-* 10-11.15 Mikrostruktur: Definitionen im DWDS
+* 10-11.15 Mikrostruktur: Definitionen im Wörterbuch: a) Oxford (s. Atkins/Rundell); b) DWDS
 * 11.15-13.15 (gemeinsam mit Axel Herold - BBAW/ZDL): Modellierung von lexikalischen Informationen (inkl. Einführung in *TEI* und *TEI-Lex0* sowie der DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter xml-Editor)
 * 14-15.30: (mit Gregor Middell - BBAW/ZDL) LLMs im DWDS (am Beispiel von Mistral-AI)
 * 15.30-16: Vorstellung Übungsblätter (Aufgabe Definitionsvergleich: Mistral-AI vs. DWDS-Definitionen)
