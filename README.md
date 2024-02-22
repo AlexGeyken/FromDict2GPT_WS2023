@@ -14,25 +14,24 @@ Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr.
 Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 
 ## Tag 1 (22.2.2024): 
-* 10-12.30 Einführung (Lexikographie, e-Lexicography, DWDS-Webseite)
-* 13.15-14 Praktische E-Lexikographie (am Beispiel des Oxford Guide of Practical Lexicography - Atkins & Rundell 2008, Überblick)
+* 10-12.30 Einführung (Lexikographie, e-Lexicography, DWDS-I)
+* 13.15-14 Praktische E-Lexikographie (DWDS - II)
 * 14-16 (gemeinsam mit Anja Pfeiffer, BBAWZDL), DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels
 
 ## Tag 2 (23.2.2024):
-* 10-11.15 Mikrostruktur: Definitionen, Frame Semantik und Lexikalische Funktionen
+* 10-11.15 Mikrostruktur: Definitionen im DWDS
 * 11.15-13.15 (gemeinsam mit Axel Herold - BBAW/ZDL): Modellierung von lexikalischen Informationen (inkl. Einführung in *TEI* und *TEI-Lex0* sowie der DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter xml-Editor)
 * 14-15.30: (mit Gregor Middell - BBAW/ZDL) LLMs im DWDS (am Beispiel von Mistral-AI)
 * 15.30-16: Vorstellung Übungsblätter (Aufgabe Definitionsvergleich: Mistral-AI vs. DWDS-Definitionen)
 
 ## Tag 3 (29.2.2024):
 * 10-12.00 (mit Yannic Bracke, BBAW/Text+): Transformer, Anwendungen in der Korpusannotation
-* 13-15.00 Regionaler Wortschatz: Methodisches
-* 15-16.00 (Ggf. Zeit für Referate)
+* 13-16.00 Zeit für Referate
 
 ## Tag 4 (1.3.2024):
 * 10-11.30 LLMs in der Lexikographie: Ausbau der europäischen Plattform elexis
-* 13-15.30 (gemeinsam mit Selina Lang, BBAW/ZDL) Auswertung der Datasets 
-* 15.30-16.00: Zusammenfassung
+* 13-15.00 (gemeinsam mit Selina Lang, BBAW/ZDL) Auswertung der Datasets
+* 15-16 GPTs in industriellen Anwendungen (Alexander Siebert - nenna.ai) 
 
 ## Weiterführende Quellen:
 * The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552
