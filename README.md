@@ -20,7 +20,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 
 ## Tag 2 (23.2.2024):
 * 10-11.15 Mikrostruktur: Definitionen im Wörterbuch: a) Oxford (s. Atkins/Rundell); b) DWDS
-* 11.15-13.15 (gemeinsam mit Axel Herold - BBAW/ZDL): Modellierung von lexikalischen Informationen (inkl. Einführung in *TEI* und *TEI-Lex0* sowie der DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter xml-Editor)
+* 11.15-13.15 (gemeinsam mit Axel Herold - BBAW/ZDL): Modellierung von lexikalischen Informationen (inkl. Einführung in *TEI* und *TEI Lex-0* sowie die DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter XML-Editor)
 * 14-15.30: (mit Gregor Middell - BBAW/ZDL) LLMs im DWDS (am Beispiel von Mistral-AI)
 * 15.30-16: Vorstellung Übungsblätter (Aufgabe Definitionsvergleich: Mistral-AI vs. DWDS-Definitionen)
 
