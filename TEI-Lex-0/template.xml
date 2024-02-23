@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEI_Lex-0-0.9.3.rng" type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="rendering.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="lex-0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language role="objectLanguage" ident=""></language>
+                <language role="workingLanguage" ident=""></language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry xml:id="entry-1" xml:lang="">
+                <form></form>
+            </entry>
+        </body>
+    </text>
+</TEI>
