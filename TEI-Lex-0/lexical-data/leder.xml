@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEI_Lex-0-0.9.3.rng" type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="rendering.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="lex-0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language role="objectLanguage" ident="de"></language>
+                <language role="workingLanguage" ident="en"></language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry xml:id="leder-1" xml:lang="en" type="wordFamily">
+                <entry xml:id="leder-1-1" xml:lang="en" type="mainEntry">
+                    <form type="lemma" xml:lang="de">
+                        <orth>Leder</orth>
+                    </form>
+                    <gramGrp>
+                        <gram type="pos">nn</gram>
+                    </gramGrp>
+                    <sense xml:id="leder-1-1-S1">
+                        <def>leather</def>
+                    </sense>
+                </entry>
+                <entry xml:id="leder-1-2" xml:lang="en" type="mainEntry">
+                    <form type="lemma" xml:lang="de">
+                        <orth norm="ledern">leder n</orth>
+                    </form>
+                    <sense xml:id="leder-1-2-S1">
+                        <def>of leather</def><pc>;</pc>
+                        <def>leathern, lethery, tough</def>
+                    </sense>
+                </entry>
+                <entry xml:id="leder-1-3" xml:lang="en" type="mainEntry">
+                    <form type="lemma" xml:lang="de">
+                        <orth norm="abledern">ab leder n</orth>
+                    </form>
+                    <sense xml:id="leder-1-3-S1">
+                        <def>wipe with chamois skin</def>
+                    </sense>
+                </entry>
+                <entry xml:id="leder-1-4" xml:lang="en" type="mainEntry">
+                    <form type="lemma" xml:lang="de">
+                        <orth norm="Oberleder">Ober leder</orth>
+                    </form>
+                    <gramGrp>
+                        <gram type="pos">nn</gram>
+                    </gramGrp>
+                    <sense xml:id="leder-1-4-S1">
+                        <def>upper leather of shoe</def>
+                    </sense>
+                </entry>
+                <entry xml:id="leder-1-5" xml:lang="en" type="mainEntry">
+                    <form type="lemma" xml:lang="de">
+                        <orth norm="Unterleder">Unter leder</orth>
+                    </form>
+                    <gramGrp>
+                        <gram type="pos">nn</gram>
+                    </gramGrp>
+                    <sense xml:id="leder-1-5-S1">
+                        <def>sole leather</def>
+                    </sense>
+                </entry>                
+            </entry>
+        </body>
+    </text>
+</TEI>

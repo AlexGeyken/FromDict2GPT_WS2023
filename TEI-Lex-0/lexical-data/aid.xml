@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEI_Lex-0-0.9.3.rng" type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="rendering.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="lex-0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <availability>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language role="objectLanguage" ident="en"></language>
+                <language role="workingLanguage" ident="en"></language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry xml:id="aid" xml:lang="en" type="mainEntry">
+                <form type="lemma">
+                    <orth>aid</orth>
+                    <pc>/</pc><pron notation="IPA">eıd</pron><pc>/</pc>
+                </form>
+                <entry xml:id="aid-1" xml:lang="en" type="homonymicEntry">
+                    <gramGrp>
+                    <gram type="pos">noun</gram>
+                </gramGrp>
+                <sense xml:id="aid-1-S1">
+                    <lbl>1.</lbl>
+                <def>help, especially money, food or other gifts given to people living in difficult conditions</def>
+                <cit type="example">
+                    <lbl>○</lbl>
+                    <quote>aid to the earthquake zone</quote>
+                </cit>
+                <cit type="example">
+                    <lbl>○</lbl>
+                    <quote>an aid worker</quote>
+                </cit>
+                <pc>(</pc><lbl>NOTE</lbl><pc>:</pc><note>This meaning of aid has no plural.</note><pc/>
+                <entry xml:id="aid-1-1" xml:lang="en" type="homonymicEntry">
+                    <lbl>□</lbl>
+                    <form type="lemma">
+                        <orth>in aid of</orth>
+                    </form>
+                    <sense xml:id="aid-1-S3">
+                        <def>in order to help</def>
+                        <cit type="example">
+                            <lbl>○</lbl>
+                            <quote>We give money in aid of the Red Cross.</quote>
+                        </cit>
+                        <cit type="example">
+                            <lbl>○</lbl>
+                            <quote>They are collecting money in aid of refugees.</quote>
+                        </cit>
+                    </sense>
+                </entry>
+                </sense>
+                <sense xml:id="aid-1-S2">
+                    <lbl>2.</lbl>
+                    <def>something which helps you to do something</def>
+                    <cit type="example">
+                        <lbl>○</lbl>
+                        <quote>kitchen aids</quote>
+                    </cit>
+                </sense>
+                </entry>
+                <lbl>■</lbl>
+                <entry xml:id="aid-2" xml:lang="en" type="homonymicEntry">
+                    <gramGrp>
+                        <gram type="pos">verb</gram>
+                    </gramGrp>
+                    <sense xml:id="aid-2-S1">
+                        <lbl>1.</lbl>
+                        <def>to help some thing to happen</def>
+                    </sense>
+                    <sense xml:id="aid-2-S2">
+                        <lbl>2.</lbl>
+                        <def>to help someone</def>
+                    </sense>
+                </entry>                
+            </entry>
+        </body>
+    </text>
+</TEI>
