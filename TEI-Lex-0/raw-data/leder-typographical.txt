@@ -1,0 +1,5 @@
+	Leder	nn	leather
+	leder n		of leather; leathern, lethery, tough
+   ab	leder n		wipe with chamois skin
+ Ober	leder	nn	upper leather of shoe
+Unter	leder	nn	sole leather
