@@ -1,0 +1,136 @@
+<DWDS xmlns="http://www.dwds.de/ns/1.0">
+    <Artikel Quelle="ZDL" Status="Lex-zurückgestellt" Typ="Vollartikel" Zeitstempel="2024-02-22" xml:id="E_b_7750_13" Erstellungsdatum="1967-01-01" Erstfassung="WDG" Autor="pfeiffer" Tranche="WDG-Überarbeitung">
+        <Formangabe Typ="Hauptform">
+            <Schreibung>Betriebsblindheit</Schreibung>
+            <Aussprache>037/die_Betriebsblindheit</Aussprache>
+            <Grammatik>
+                <Wortklasse>Substantiv</Wortklasse>
+                <Genus>fem.</Genus>
+                <Genitiv>-</Genitiv>
+                <Plural>-en</Plural>
+            </Grammatik>
+            <Diasystematik/>
+        </Formangabe>
+        <Orthografie/>
+        <Verweise Typ="Derivation">
+            <Verweis Typ="Erstglied">
+                <Ziellemma>betriebsblind</Ziellemma>
+                <Ziellesart/>
+            </Verweis>
+            <Verweis Typ="Letztglied">
+                <Ziellemma>-heit</Ziellemma>
+                <Ziellesart/>
+            </Verweis>
+        </Verweise>
+        <Verweise Typ="Komposition">
+            <Verweis Typ="Erstglied">
+                <Ziellemma>Betrieb</Ziellemma>
+                <Ziellesart/>
+            </Verweis>
+            <Verweis Typ="Letztglied">
+                <Ziellemma>Blindheit</Ziellemma>
+                <Ziellesart/>
+            </Verweis>
+        </Verweise>
+        <Diachronie>
+            <Etymologie/>
+            <Formgeschichte/>
+            <Bedeutungsgeschichte/>
+            <Verweise/>
+        </Diachronie>
+        <Lesart xml:id="S_b_4535">
+            <Syntagmatik/>
+            <Diasystematik/>
+            <Verweise>
+                <Verweis Typ="Entsprechung">
+                    <Ziellemma>betriebsblind</Ziellemma>
+                    <Ziellesart/>
+                </Verweis>
+            </Verweise>
+            <Definition Typ="Basis">durch (langjährige) Erfahrung, Routine oder mangelnde Außenperspektive entstandene Unfähigkeit, Fehler, Mängel in der eigenen Arbeit, in betrieblichen Abläufen zu erkennen, vermeiden</Definition>
+            <Definition Typ="Basis">durch diese Unfähigkeit entstandener Fehler</Definition>
+            <Kollokationen>
+                <Kollokation syntaktische_Relation="Stichwort_ist_Akkusativobjekt_von">
+                    <Belegtext><Stichwort>Betriebsblindheit</Stichwort> vermeiden</Belegtext>
+                </Kollokation>
+            </Kollokationen>
+            <Verwendungsbeispiele>
+                <Beleg xmlns="http://www.dwds.de/ns/1.0">
+                    <Belegtext> Die momentanen Preise seien angemessen und notwendig beim
+                        Handwerksbäcker, denn gerade dieses Handwerk sei personalintensiv,
+                        Lohnkosten lägen bei 50 Prozent. »Von einem Brötchen für einen Euro
+                        geht die Hälfte für den Lohn weg«, sagt Stiefel. Das meint auch Michael
+                        Schleich, Obermeister der Bäckerinnung Landshut. Er sagt, die Prüfung sei
+                        eine gute Gelegenheit für jeden Bäcker, eine »mögliche
+                            <Stichwort>Betriebsblindheit</Stichwort>« zu hinterfragen. Manchmal
+                        würden sich in einer Bäckerei Dinge einschleichen – etwaige Mängel von
+                        unabhängiger Stelle einmal aufgezeigt zu bekommen, sei hilfreich. Dennoch
+                        sind die Landshuter Innungsbetriebe laut Schleich auf einem sehr hohen
+                        Niveau, das zeigten die jährlichen Prüfungen. Die gestiegenen Preise in den
+                        Bäckereien führt Schleich auf drei Faktoren zurück: Rohstoffkosten,
+                        Personalkosten, Energiekosten. </Belegtext>
+                    <Fundstelle Fundort="dwds:laz_regional:2024/01/LAZ_asr0000026890447-LANDSHUTERZEITUNG">
+                        Landshuter Zeitung, 31.01.2024 </Fundstelle>
+                </Beleg>
+                <Beleg>
+                    <Belegtext> Laut Sven Weiberg <Streichung>(Linke)</Streichung> sind »viele Optimierungen <Autorenzusatz>in den Verwaltungsprozessen</Autorenzusatz> im Rathaus« möglich. Greife man nicht auf Externe zurück, bestehe die Gefahr der <Stichwort>Betriebsblindheit</Stichwort>.</Belegtext>
+                    <Fundstelle Fundort="dwds:fr:2023/07/FR_fr_F60C213EB7696E213000"> Frankfurter
+                        Rundschau, 20.07.2023 </Fundstelle>
+                </Beleg>
+                <Beleg>
+                    <Belegtext> »Die Mitwirkung von Schöffen bei Gerichtsverhandlungen zeigt
+                        die Verankerung der Justiz in der Gesellschaft – und sie hilft,
+                            <Stichwort>Betriebsblindheit</Stichwort> bei den Juristen zu
+                        verhindern.« </Belegtext>
+                    <Fundstelle Fundort="dwds:maz_regional:2023/05/MAZ_319086420001684706400">
+                        Allgemeine Zeitung, 22.05.2023 </Fundstelle>
+                </Beleg>
+                <Beleg>
+                    <Belegtext> persönliche Ziel die passende Hilfe. Eine weitere, nicht zu
+                        verachtende Komponente beruflicher Weiterbildung ist die Möglichkeit, ein
+                        breiteres Netzwerk von Kontakten aufzubauen. Durch die Interaktion mit
+                        anderen Personen in der Branche kann man wertvolle Erfahrungen austauschen,
+                        neue Perspektiven kennenlernen und möglicherweise sogar neue
+                        Karrieremöglichkeiten entdecken. Der »
+                            <Stichwort>Betriebsblindheit</Stichwort>«, die sich nach Jahren
+                        der Arbeit in einem Unternehmen zuweilen einstellt, kann hier wirkungsvoll
+                        entgegengewirkt werden. Berufliche Weiterbildung ist, und hier liegt die
+                        Hauptargumentation dafür, sich tatsächlich weiterzubilden, auch ein
+                        wesentlicher Faktor für die persönliche Entwicklung. Sie hilft dabei, das
+                        Selbstbewusstsein zu steigern und die Fähigkeit zu verbessern, sich selbst
+                        zu motivieren und zu organisieren. </Belegtext>
+                    <Fundstelle Fundort="dwds:rztg:2023/04/RZTG_0FC1AE8CF88DFE2F3B80EA4C20BD2F2D-KOBLENZ">
+                        Rhein-Zeitung, 29.04.2023 </Fundstelle>
+                </Beleg>
+            </Verwendungsbeispiele>
+        </Lesart>
+        <Rohdaten>
+            <Verwendungsbeispiele Autor="DWDS" Quelle="DWDS" Zeitstempel="2023-06-23">
+                <Beleg>
+                    <Belegtext>Heftig kokettiert der Professor mit einer Art von gelehrter
+                            <Stichwort>Betriebsblindheit</Stichwort>.</Belegtext>
+                    <Fundstelle Fundort="dwds:zeit">Die Zeit, 17.10.1986, Nr. 43</Fundstelle>
+                </Beleg>
+                <Beleg>
+                    <Belegtext>Hier wie dort stellt sich häufig eine gewisse
+                            <Stichwort>Betriebsblindheit</Stichwort> ein.</Belegtext>
+                    <Fundstelle Fundort="dwds:zeit">Die Zeit, 03.03.1978, Nr. 10</Fundstelle>
+                </Beleg>
+                <Beleg>
+                    <Belegtext>Es stellt sich eine Art <Stichwort>Betriebsblindheit</Stichwort>
+                        gegenüber den eigenen Fähigkeiten ein.</Belegtext>
+                    <Fundstelle Fundort="dwds:tagesspiegel">Der Tagesspiegel,
+                        04.08.2002</Fundstelle>
+                </Beleg>
+                <Beleg>
+                    <Belegtext>Vor allen Dingen ist man aber in dem Augenblick, in dem man versucht,
+                        in eine neue Problematik einzudringen, nicht jenem gefährlichen Moment der
+                            »<Stichwort>Betriebsblindheit</Stichwort>« ausgesetzt.</Belegtext>
+                    <Fundstelle Fundort="dwds:kernbasis_secondarily">Ardenne, Manfred v.: Ein
+                        glückliches Leben für Technik und Forschung: Berlin: Verlag der Nation 1976,
+                        S. 56</Fundstelle>
+                </Beleg>
+            </Verwendungsbeispiele>
+        </Rohdaten>
+    </Artikel>
+</DWDS>
