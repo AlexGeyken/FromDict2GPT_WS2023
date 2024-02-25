@@ -53,11 +53,11 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 **[5]** Robert Lev, Sascha Wolfer. What lexical factors drive look-ups in Wiktionary (Proc. elex 2023)
  (https://elex.link/elex2017/wp-content/uploads/2017/09/paper34.pdf)
 
-6. Gilles-Maurice de Schryver: Generative AI and Lexicography: The Current State of the Art Using ChatGPT (https://academic.oup.com/ijl/article/36/4/355/7288213)
+*6. Gilles-Maurice de Schryver: Generative AI and Lexicography: The Current State of the Art Using ChatGPT (https://academic.oup.com/ijl/article/36/4/355/7288213)
 
 **[7]** Robert Lev: ChatGPT as a COBUILD lexicographer (https://osf.io/preprints/osf/t9mbu)
 
-8. Develop chatGPT dictionary "definer" that outputs for a given headword: the senses (possibly sub-senses) including definition sentences -- evaluate against testwords and Mistral-AI (as used at DWDS). 
+*8. Develop chatGPT dictionary "definer" that outputs for a given headword: the senses (possibly sub-senses) including definition sentences -- evaluate against testwords and Mistral-AI (as used at DWDS). -- Prüfungsleistung, kein Referat
 
 
 
