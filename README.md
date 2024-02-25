@@ -41,6 +41,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 
 ## Themen für Referate/Hausarbeiten:
 **Vorbemerkung**: Die Referate sollten 25-30 Min (max) dauern; danach 15-20 Min. Fragen/Diskussion
+
 **[1]** Adam Kilgarriff, Miloš Husák, Katy McAdam, Michael Rundell and Pavel Rychlý (2008). GDEX: Automatically finding good dictionary examples in a corpus. In Proceedings of the 13th EURALEX International Congress. Spain, July 2008, pp. 425–432. (https://www.sketchengine.eu/wp-content/uploads/2015/05/GDEX_Automatically_finding_2008.pdf). Dazu auch die Konfigurations-Datei auf sketchengine.eu: https://www.sketchengine.eu/syntax-of-gdex-configuration-files/
 
 **[2]** Alexander Geyken A, Frank Wiegand und Kay-Michael Würzner, 2017. On-the-fly Generation of Dictionary Articles for the DWDS Website. In: Kosem I., Tiberius C., Jakubíček M., Kallas J., Krek S., Baisa V. (eds.), Electronic Lexicography in the 21st Century. Proceedings of eLex 2017 Conference, 19-21 September 2017, Leiden, Netherlands. Brno: Lexical Computing CZ s.r.o., 560–570. (https://elex.link/elex2017/wp-content/uploads/2017/09/paper34.pdf)
