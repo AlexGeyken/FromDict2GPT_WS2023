@@ -51,7 +51,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 **[4]** Miloš Jakubíček, Michael Rundell: The end of lexicography: Can ChatGPT outperform current tools for post-editing lexicography?  (Proc. elex 2023: p 518-533)
 
 **[5]** Robert Lev, Sascha Wolfer. What lexical factors drive look-ups in Wiktionary (Proc. elex 2023)
- (https://elex.link/elex2017/wp-content/uploads/2017/09/paper34.pdf)
+ (https://journals.sagepub.com/doi/full/10.1177/21582440231219101 bzw. https://journals.sagepub.com/doi/epub/10.1177/21582440231219101)
 
 *6. Gilles-Maurice de Schryver: Generative AI and Lexicography: The Current State of the Art Using ChatGPT (https://academic.oup.com/ijl/article/36/4/355/7288213) -- vergeben als Hausarbeit (Kubilay Kiraz, 27.2.)
 
