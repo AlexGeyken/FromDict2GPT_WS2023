@@ -31,8 +31,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 
 ## Tag 4 (1.3.2024):
 * 10-11.30 LLMs in der Lexikographie; Stand der Überlegungen (elex 2023), [7] Prokhar Navitsky [7]  
-* 13-13.45 (gemeinsam mit Selina Lang, BBAW/ZDL) Definitionen im DWDS, s. auch
-* 13-15.00 (gemeinsam mit Selina Lang, BBAW/ZDL) Auswertung der Datasets
+* 13-14.45 (gemeinsam mit Selina Lang, BBAW/ZDL) Definitionen im DWDS, Auswertung der Datasets
 * 15-16 GPTs in industriellen Anwendungen (Alexander Siebert - nenna.ai) 
 
 ## Weiterführende Quellen:
