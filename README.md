@@ -36,7 +36,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 * 15-16 GPTs in industriellen Anwendungen (Alexander Siebert - nenna.ai) 
 
 ## Weiterführende Quellen:
-* The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552. https://www.pdfdrive.com/the-oxford-guide-to-practical-lexicography-e159188625.html
+* The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552. 
 * Proceedings elex 2023: https://elex.link/elex2023/proceedings-download/
 
 ## Themen für Referate/Hausarbeiten:
@@ -53,7 +53,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 **[5]** Robert Lev, Sascha Wolfer. What lexical factors drive look-ups in Wiktionary (Proc. elex 2023)
  (https://elex.link/elex2017/wp-content/uploads/2017/09/paper34.pdf)
 
-*6. Gilles-Maurice de Schryver: Generative AI and Lexicography: The Current State of the Art Using ChatGPT (https://academic.oup.com/ijl/article/36/4/355/7288213)
+*6. Gilles-Maurice de Schryver: Generative AI and Lexicography: The Current State of the Art Using ChatGPT (https://academic.oup.com/ijl/article/36/4/355/7288213) -- vergeben als Hausarbeit (Kubilay Kiraz, 27.2.)
 
 **[7]** Robert Lev: ChatGPT as a COBUILD lexicographer (https://osf.io/preprints/osf/t9mbu)
 
