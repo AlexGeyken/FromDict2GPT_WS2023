@@ -30,7 +30,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 * 13-16 Referate: Dietmar Benndorf [1], Veronika Hentze [3], Cordula Scholz [4], Celina Liebenow [5]
 
 ## Tag 4 (1.3.2024):
-* 10-11.30 LLMs in der Lexikographie; Stand der Überlegungen (elex 2023), [7] Prokhar Navitsky [7]  
+* 10-11.30 LLMs in der Lexikographie; Stand der Überlegungen (elex 2023), [7] Prokhar Navitski [7]  
 * 13-14.45 (gemeinsam mit Selina Lang, BBAW/ZDL) Definitionen im DWDS, Auswertung der Datasets
 * 15-16 GPTs in industriellen Anwendungen (Alexander Siebert - nenna.ai) 
 
